@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AutoMeKin documentation
+description: Documentation for AutoMeKin
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  AutoMeKin's Repository: https://github.com/emartineznunez/AutoMeKin
+
+  # External navigation links
+nav_external_links:
+  - title: Network visualization tools
+    url: https://github.com/dgarayr/amk_tools
+  - title: Try it on the Web
+    url: https://rxnkin.usc.es/amk/
+  - title: Open in Colab
+    url: https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/main/AutoMeKin.ipynb
+  - title: Get it from sylabs
+    url: https://cloud.sylabs.io/library/emartineznunez/default/automekin
