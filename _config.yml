@@ -17,3 +17,26 @@ nav_external_links:
     url: https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/main/AutoMeKin.ipynb
   - title: Get it from sylabs
     url: https://cloud.sylabs.io/library/emartineznunez/default/automekin
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+logo: "/assets/images/Imagen1.png"
+kramdown:
+  input: GFM
+  math_engine: mathjax # you can also set this field to 'katex'
+
+  
